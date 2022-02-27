@@ -12,8 +12,8 @@ Yakın zamanda(2022 Ocak) Tkinter kullanarak GUI (Grafiksel Kullanıcı Arayüz�
 Velhasıl, projeyi geliştirmeyi uzun zamandır bıraktım. Aldığınız hatalara yardımcı olamayacağım, araştırıp siz çözebilirsiniz. Bu konuda yardım mesajı atmazsanız sevinirim. Programı son videoda gördüğünüz gibi kodlarını paylaşıyorum.
 Kodlar github hesabımda herkese açık olarak yayındadır.
 
-@yazilimfuryasi olarak bizi kaynak gösterip isteyen alıp geliştirip kullanabilir.
-
+Emeğe saygı göstererek, @yazilimfuryasi olarak bizi kaynak gösterip isteyen alıp geliştirip kullanabilir.
+Bizim kodlara kendi imzasını atanlara prim vermeyiniz.
 
 # Nasıl Çalıştırırım?
 main.py dosyası eski, onu kullanmanıza gerek yoktur. gui.py üzerinden anlatacağım.
