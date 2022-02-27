@@ -32,5 +32,11 @@ main.py dosyası eski, onu kullanmanıza gerek yoktur. gui.py üzerinden anlatac
 * **win32ui.error: BitBlt failed** := Oyunda ekran yakalama engelli demektir.
 * **Fare metinin üzerine gidiyor ama tıklamıyor?** := Çözümü hakkında fikrim yok.
 
+# Güncel(son) Video
+https://youtu.be/leYyXPpeUNk
+
+
 Kaynak:
+
 https://www.youtube.com/watch?v=KecMlLUuiE4&list=PL1m2M8LQlzfKtkKq2lK5xko4X-8EZzFPI
+https://docs.opencv.org/3.4/dc/d88/tutorial_traincascade.html
