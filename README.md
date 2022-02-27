@@ -30,6 +30,7 @@ main.py dosyası eski, onu kullanmanıza gerek yoktur. gui.py üzerinden anlatac
 * **No module named ...** := Adı geçen modül yüklü değil demektir.
 * **NameError: name 'wincap' is not defined** := Adı geçen ekran bulunamadı demektir.
 * **win32ui.error: BitBlt failed** := Oyunda ekran yakalama engelli demektir.
+* **Fare metinin üzerine gidiyor ama tıklamıyor?** := Çözümü hakkında fikrim yok.
 
 Kaynak:
 https://www.youtube.com/watch?v=KecMlLUuiE4&list=PL1m2M8LQlzfKtkKq2lK5xko4X-8EZzFPI
