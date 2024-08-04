@@ -35,8 +35,19 @@ main.py dosyası eski, onu kullanmanıza gerek yoktur. gui.py üzerinden anlatac
 * **win32ui.error: BitBlt failed** := Oyunda ekran yakalama engelli demektir.
 * **Fare metinin üzerine gidiyor ama tıklamıyor?** := Programı ve Oyunu yönetici olarak açın. Yine olmadıysa çözümü hakkında bir fikrim yok.
 
-# Güncel(son) Video
-https://youtu.be/leYyXPpeUNk (haksız teliften dolayı kanal kapandı)
+# Kodlara ait güncel(son) Video
+[![2024](https://i.ytimg.com/an_webp/leYyXPpeUNk/mqdefault_6s.webp?du=3000&sqp=CN6ovbUG&rs=AOn4CLDVMFcxN-CZHb_mup78Z9BQz4eW-A)](https://www.youtube.com/watch?v=leYyXPpeUNk)
+
+# 2024 - Yeni Arayüz, Yeni Model
+2024 yılında yeni model eğittim ve metin algılama hızı arttırıldı. Ek fonksiyonlar eklendi. Bu kodlar şuanda yayında değil. İlgili video;
+
+Program arayüzü
+
+![pythonist_53777a8d5e503a9976beb8527a1fbb84](https://github.com/user-attachments/assets/af34c9b1-dd28-4ee9-a40c-9ddce571069a)
+
+İlgili Video
+
+[![2024](https://i.ytimg.com/an_webp/KyYQ55jglbw/mqdefault_6s.webp?du=3000&sqp=CPSdvbUG&rs=AOn4CLAyovgC7Yqu0JBBUWyj1w2dnDNQfg)](https://www.youtube.com/watch?v=KyYQ55jglbw)
 
 
 Kaynak:
