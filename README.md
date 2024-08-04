@@ -16,24 +16,27 @@ Emeğe saygı göstererek, @yazilimfuryasi olarak bizi kaynak gösterip isteyen 
 Bizim kodlara kendi imzasını atanlara prim vermeyiniz.
 
 # Nasıl Çalıştırırım?
+* Bilgisayarda Python kurulu olması lazım. (v3.8 ve üzeri)
+* pip install -r requirements.txt ile gerekli modülleri kurun.
+
 main.py dosyası eski, onu kullanmanıza gerek yoktur. gui.py üzerinden anlatacağım.
 
 * gui.py dosyasını açıp 107. satırdaki cascade değişkenine cascade.xml dosya yolunu yazın.
-* Python yüklü ise CMD ekranını yönetici olarak çalıştırın.
-* Dosyaların bulunduğu dizine cd komutu ile gidin
+* CMD ekranını yönetici olarak çalıştırın.
+* Dosyaların bulunduğu dizine cd komutu ile gidin (örn: cd C:\OpenCV-Game-Bot)
 * Ekrana **python gui.py** yazarak enter yapın.
 * Oyunda skill barında ki kamerayı saldır olarak değişin.
-* Araya basıp oyun ekranını seçin.
+* Program ekranındaki 'Ara' butonuna basıp oyun ekranını seçin.
 * Metin kesme sürenizi yazın ve başlata basın.
 
 # SSS
 * **No module named ...** := Adı geçen modül yüklü değil demektir.
 * **NameError: name 'wincap' is not defined** := Adı geçen ekran bulunamadı demektir.
 * **win32ui.error: BitBlt failed** := Oyunda ekran yakalama engelli demektir.
-* **Fare metinin üzerine gidiyor ama tıklamıyor?** := Çözümü hakkında fikrim yok.
+* **Fare metinin üzerine gidiyor ama tıklamıyor?** := Programı ve Oyunu yönetici olarak açın. Yine olmadıysa çözümü hakkında bir fikrim yok.
 
 # Güncel(son) Video
-https://youtu.be/leYyXPpeUNk
+https://youtu.be/leYyXPpeUNk (haksız teliften dolayı kanal kapandı)
 
 
 Kaynak:
